@@ -1,1 +1,2 @@
 # Excel-HR-Analytics-Interactive-Dashboard
+Project involves HR Analysis with the help of raw csv files with employees details. Data cleansing and transformation has been done with the help of removing duplicates, handling missing data and standardizing data formats. Key metrics(KPIs) have been created like Attrition rate, Job Satisfaction. Visualization is done with help of various charts like funnel charts, treemap.    
